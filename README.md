@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tusharkanta19
 - 👀 I’m interested in Embedded System, remote work and open source
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Python3
 - 💞️ I’m looking to collaborate on anyway
 - 📫 How to reach me @tusharkanta19
 
